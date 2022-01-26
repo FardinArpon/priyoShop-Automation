@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "Priyoshop-selenium-pom",
+      "children" : [ {
+        "name" : "TestRunner",
+        "children" : [ {
+          "name" : "loginwith",
+          "uid" : "924a25d8e6f7cea3",
+          "parentUid" : "bdef1b4d6fbf1c50f94b79b273be138c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1636909669378,
+            "stop" : 1636909703343,
+            "duration" : 33965
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bdef1b4d6fbf1c50f94b79b273be138c"
+      } ],
+      "uid" : "20f4193cf526fe91597c40f000c58179"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

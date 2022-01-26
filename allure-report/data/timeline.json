@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Fardin_Amin_Arpon",
+    "children" : [ {
+      "name" : "12300@Fardin_Amin_Arpon.main(1)",
+      "children" : [ {
+        "name" : "loginwith",
+        "uid" : "924a25d8e6f7cea3",
+        "parentUid" : "98dd836abbdaf6fad54ff668aff003eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636909669378,
+          "stop" : 1636909703343,
+          "duration" : 33965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98dd836abbdaf6fad54ff668aff003eb"
+    } ],
+    "uid" : "fa34de7d7188c43b31923143444e4707"
+  } ]
+}
