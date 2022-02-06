@@ -24,8 +24,6 @@ public class TestRunner extends SetUp{
         String user1=objLogin.dologin(email,password);
         Assert.assertEquals(user1,"nazmul35-1885@diu.edu.bd");
 
-//        String user1=objLogin.dologin("nazmul35-1885@diu.edu.bd","123456");
-//        Assert.assertEquals(user1,"nazmul35-1885@diu.edu.bd");
 
     }
 
